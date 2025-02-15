@@ -35,3 +35,7 @@ docker-compose up --build
 |---------------|----------|
 | Book Events   | `book.events` |
 | Author Events | `author.events` |
+
+### Postman Collection
+Click the button below to import the API collection into Postman:
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/1716113-2148a0f0-9a43-4676-ae97-d574efe992b5?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1716113-2148a0f0-9a43-4676-ae97-d574efe992b5%26entityType%3Dcollection%26workspaceId%3Dead81463-c9d5-422d-863c-183947ca9f7c)
